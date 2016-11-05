@@ -1,3 +1,6 @@
-## siteParser
+Site Parser
+Парсим сайты на лету.
+/core/components/siteparser/model/custom/templates/default.php - файл настроек для парсинга
 
-скрипт для простого парсинга сайтов прямо в modx revo
+Автор: devpastet
+http://devpastet.ru/
